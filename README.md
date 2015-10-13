@@ -4,7 +4,7 @@ ProcessWire module for retrieving data from a Facebook page.
 
 ## Usage
 
-To be updated.
+To be updated. Would recommend avoiding use until caching has been implemented.
 
 ## Installation
 
